@@ -95,6 +95,7 @@ Vectorization
 
 # 📁 Project Structure
 movie-recommendation-system
+```
 │
 ├── data
 │   ├── movies.csv
@@ -111,6 +112,7 @@ movie-recommendation-system
 ├── requirements.txt
 ├── README.md
 └── screenshots
+```
 
 # ⚙️ Installation
 ## 1️⃣ Clone the repository
